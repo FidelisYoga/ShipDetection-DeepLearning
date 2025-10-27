@@ -49,7 +49,7 @@ Performed detailed data exploration to understand image and annotation patterns:
 ---
 
 ## Model Training
-Trained and compared three YOLO variants:
+Trained and compared 3 YOLO variants:
 - **YOLOv8s:** lightweight and fast, suitable for real-time inference  
 - **YOLOv8m:** balanced model between speed and accuracy  
 - **YOLOv11:** latest version achieving highest accuracy, but heavier computationally  
